@@ -1,0 +1,9 @@
+{
+  "name": "NumatoLab32ChannelUSBGPIOModule",
+  "version": "0.0.1",
+  "description": "Numato Lab 32 Channel USB GPIO Module: http://numato.com/32-channel-usb-gpio-module.html",
+  "author": "Grosan Flaviu Gheorghe <fgheorghe@grosan.co.uk>",
+  "dependencies": {
+    "exec-sync": "0.1.6"
+  }
+}
